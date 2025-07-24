@@ -1,5 +1,5 @@
 
-<img width="1651" height="1501" alt="Clarkson_University_Shield_green_and_gold" src="https://github.com/user-attachments/assets/102ab08a-5030-4c9f-b683-244dba073b6d" />
+<img width="500" height="455" alt="Clarkson_University_Shield_green_and_gold" src="https://github.com/user-attachments/assets/102ab08a-5030-4c9f-b683-244dba073b6d" />
 <img width="500" height="324" alt="NSF_Official_logo_Med_Res_600ppi_rectangle" src="https://github.com/user-attachments/assets/2a6bf154-cffd-49c0-8733-5227298c9896" />
 This research was supported by the Resilient Carbon-Free US Electric Power Systems REU at Clarkson University and funded by the National Science Foundation
 
