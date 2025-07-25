@@ -6,6 +6,7 @@
 
 A dynamic model of the Northern New York power grid was built using MATLAB Simulink to investigate the potential for control interactions between these generation sources in the North Country and the downstate power grid. The North Country grid primarily consists of wind farms totaling 678.45 MW and the 912 MW St. Lawrence-FDR hydro power plant in Massena, New York. The infrastructure connecting these sources includes the new 345kV transmission lines as well as a 765kV transmission line linked with the power grid in Quebec. Tests were conducted to evaluate grid reliability and potential for power transfer. This included: different types of faults, varying fault duration and simulated outages.
 
+By Frank Parsons and Josie Colacicco
 This research was supported by the Resilient Carbon-Free US Electric Power Systems REU at Clarkson University and funded by the National Science Foundation
 
 <h2> Running Instructions </h2>
